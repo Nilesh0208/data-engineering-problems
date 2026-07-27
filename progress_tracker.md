@@ -4,7 +4,7 @@
 
 | Category | Completed | Target |
 |---|---:|---:|
-| Python Problems | 0 | 15 |
+| Python Problems | 1 | 15 |
 | SQL Problems | 0 | 15 |
 | Mini Projects | 0 | 1 |
 
@@ -12,7 +12,7 @@
 
 | No. | Problem | Category | Difficulty | Status |
 |---:|---|---|---|---|
-| 1 | Pending | Pending | Intermediate | Not Started |
+| 1 | Aggregate Transactions by Customer | Data Processing | Intermediate | Completed |
 
 ## SQL Problems
 
