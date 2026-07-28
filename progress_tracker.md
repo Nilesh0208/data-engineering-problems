@@ -4,7 +4,7 @@
 
 | Category | Completed | Target |
 |---|---:|---:|
-| Python Problems | 1 | 15 |
+| Python Problems | 2 | 15 |
 | SQL Problems | 0 | 15 |
 | Mini Projects | 0 | 1 |
 
@@ -13,6 +13,7 @@
 | No. | Problem | Category | Difficulty | Status |
 |---:|---|---|---|---|
 | 1 | Aggregate Transactions by Customer | Data Processing | Intermediate | Completed |
+| 2 | Find Duplicate Events | Data Processing | Intermediate | Completed |
 
 ## SQL Problems
 
