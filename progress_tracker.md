@@ -4,7 +4,7 @@
 
 | Category | Completed | Target |
 |---|---:|---:|
-| Python Problems | 3 | 15 |
+| Python Problems | 5 | 15 |
 | SQL Problems | 0 | 15 |
 | Mini Projects | 0 | 1 |
 
@@ -15,6 +15,8 @@
 | 1 | Aggregate Transactions by Customer | Data Processing | Intermediate | Completed |
 | 2 | Find Duplicate Events | Data Processing | Intermediate | Completed |
 | 3 | Find Latest Event per Device | Data Processing | Intermediate | Completed |
+| 4 | Validate and Normalize Employee Records | Data Processing | Intermediate | Completed |
+| 5 | Customer Order Summary | Data Processing | Intermediate | Completed |
 
 ## SQL Problems
 
