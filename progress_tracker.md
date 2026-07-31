@@ -4,7 +4,7 @@
 
 |Category|Completed|Target|
 |-|-:|-:|
-|Python Problems|13|15|
+|Python Problems|12|15|
 |SQL Problems|0|15|
 |Mini Projects|0|1|
 
@@ -23,6 +23,7 @@
 |9|Partition Records into Fixed-Size Batches | Data Processing | Intermediate | Completed |
 |10| Compare Two Data Snapshots | Data Processing | Intermediate | Completed |
 |11| Flatten Nested JSON Records | Data Processing | Intermediate | Completed |
+|12| Detect Schema Changes Between Records | Data Processing | Intermediate | Completed |
 
 ## SQL Problems
 
