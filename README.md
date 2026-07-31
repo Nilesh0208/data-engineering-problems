@@ -20,7 +20,7 @@ A structured collection of intermediate-to-advanced Python and SQL problems focu
 ## Repository Structure
 
 ```text
-github-problems-solver/
+data-engineering-problems/
 ├── python/
 │   ├── automation/
 │   ├── data_processing/
