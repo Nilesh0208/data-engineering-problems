@@ -22,6 +22,7 @@
 |8|Detect Late-Arriving Events | Data Processing | Intermediate | Completed |
 |9|Partition Records into Fixed-Size Batches | Data Processing | Intermediate | Completed |
 |10| Compare Two Data Snapshots | Data Processing | Intermediate | Completed |
+|11| Flatten Nested JSON Records | Data Processing | Intermediate | Completed |
 
 ## SQL Problems
 
