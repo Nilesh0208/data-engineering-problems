@@ -5,18 +5,22 @@ services:
     restart: unless-stopped
 
     environment:
-      POSTGRES_USER: de_user
-      POSTGRES_PASSWORD: DePractice@123
-      POSTGRES_DB: data_engineering_problems
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
 
     ports:
-      - "5433:5432"
+      - "${POSTGRES_PORT}:5432"
 
     volumes:
       - data_engineering_postgres_data:/var/lib/postgresql/data
 
     healthcheck:
-      test: ["CMD-SHELL", "pg_isready -U de_user -d data_engineering_problems"]
+      test:
+        [
+          "CMD-SHELL",
+          "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}",
+        ]
       interval: 10s
       timeout: 5s
       retries: 5
