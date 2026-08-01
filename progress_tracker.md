@@ -4,7 +4,7 @@
 
 |Category|Completed|Target|
 |-|-:|-:|
-|Python Problems|12|15|
+|Python Problems|15|15|
 |SQL Problems|0|15|
 |Mini Projects|0|1|
 
@@ -24,6 +24,7 @@
 |10| Compare Two Data Snapshots | Data Processing | Intermediate | Completed |
 |11| Flatten Nested JSON Records | Data Processing | Intermediate | Completed |
 |12| Detect Schema Changes Between Records | Data Processing | Intermediate | Completed |
+|13| Transaction Data Quality Checks | Data Processing | Intermediate | Completed |
 
 ## SQL Problems
 
