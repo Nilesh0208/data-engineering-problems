@@ -5,7 +5,7 @@
 |Category|Completed|Target|
 |-|-:|-:|
 |Python Problems|15|15|
-|SQL Problems|0|15|
+|SQL Problems|1|15|
 |Mini Projects|0|1|
 
 ## Python Problems
@@ -32,7 +32,7 @@
 
 |No.|Problem|Category|Difficulty|Status|
 |-:|-|-|-|-|
-|1|Pending|Pending|Intermediate|Not Started|
+|1| Top Two Highest-Paid Employees per Department | CTE and Window Functions | Intermediate | Completed |
 
 ## Mini Project Milestone
 
