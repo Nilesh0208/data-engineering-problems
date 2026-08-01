@@ -1,0 +1,25 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: data-engineering-postgres
+    restart: unless-stopped
+
+    environment:
+      POSTGRES_USER: de_user
+      POSTGRES_PASSWORD: DePractice@123
+      POSTGRES_DB: data_engineering_problems
+
+    ports:
+      - "5433:5432"
+
+    volumes:
+      - data_engineering_postgres_data:/var/lib/postgresql/data
+
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U de_user -d data_engineering_problems"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  data_engineering_postgres_data:
