@@ -5,7 +5,7 @@
 |Category|Completed|Target|
 |-|-:|-:|
 |Python Problems|15|15|
-|SQL Problems|1|15|
+|SQL Problems|2|15|
 |Mini Projects|0|1|
 
 ## Python Problems
@@ -33,6 +33,7 @@
 |No.|Problem|Category|Difficulty|Status|
 |-:|-|-|-|-|
 |1| Top Two Highest-Paid Employees per Department | CTE and Window Functions | Intermediate | Completed |
+|2| Find Customers With No Orders | Joins and Subqueries | Intermediate | Completed |
 
 ## Mini Project Milestone
 
