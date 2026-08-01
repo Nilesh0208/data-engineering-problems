@@ -26,7 +26,7 @@
 |12| Detect Schema Changes Between Records | Data Processing | Intermediate | Completed |
 |13| Transaction Data Quality Checks | Data Processing | Intermediate | Completed |
 |14| Filter Records for Incremental Processing | Data Processing | Intermediate | Completed |
-
+|15| Generate Batch Data Quality Summary | Data Processing | Intermediate | Completed |
 
 ## SQL Problems
 
