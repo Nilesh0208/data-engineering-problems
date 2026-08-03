@@ -5,7 +5,7 @@
 |Category|Completed|Target|
 |-|-:|-:|
 |Python Problems|15|15|
-|SQL Problems|3|15|
+|SQL Problems|4|15|
 |Mini Projects|0|1|
 
 ## Python Problems
@@ -35,6 +35,7 @@
 |1| Top Two Highest-Paid Employees per Department | CTE and Window Functions | Intermediate | Completed |
 |2| Find Customers With No Orders | Joins and Subqueries | Intermediate | Completed |
 |3| Find Latest Order per Customer | CTE and Window Functions | Intermediate | Completed |
+|4| Calculate Customer Order Running Total | CTE and Window Functions | Intermediate | Completed |
 
 ## Mini Project Milestone
 
