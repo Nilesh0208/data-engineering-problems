@@ -5,7 +5,7 @@
 |Category|Completed|Target|
 |-|-:|-:|
 |Python Problems|15|15|
-|SQL Problems|4|15|
+|SQL Problems|5|15|
 |Mini Projects|0|1|
 
 ## Python Problems
@@ -36,6 +36,7 @@
 |2| Find Customers With No Orders | Joins and Subqueries | Intermediate | Completed |
 |3| Find Latest Order per Customer | CTE and Window Functions | Intermediate | Completed |
 |4| Calculate Customer Order Running Total | CTE and Window Functions | Intermediate | Completed |
+|5| Find Consecutive Login Days | CTE and Window Functions | Advanced | Completed |
 
 ## Mini Project Milestone
 
