@@ -5,7 +5,7 @@
 |Category|Completed|Target|
 |-|-:|-:|
 |Python Problems|15|15|
-|SQL Problems|8|15|
+|SQL Problems|9|15|
 |Mini Projects|0|1|
 
 ## Python Problems
@@ -40,6 +40,7 @@
 |6| Remove Duplicate Transactions and Keep Latest | Data Cleaning | Advanced | Completed |
 |7| Calculate Month-over-Month Sales Growth | Analytics | Advanced | Completed |
 |8| Calculate 3-Day Rolling Average of Daily Sales | Analytics | Advanced | Completed |
+|9| Find Employees Above Department Average | CTE and Window Functions | Intermediate | Completed |
 
 ## Mini Project Milestone
 
