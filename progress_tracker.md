@@ -5,7 +5,7 @@
 |Category|Completed|Target|
 |-|-:|-:|
 |Python Problems|15|15|
-|SQL Problems|7|15|
+|SQL Problems|8|15|
 |Mini Projects|0|1|
 
 ## Python Problems
@@ -39,6 +39,7 @@
 |5| Find Consecutive Login Days | CTE and Window Functions | Advanced | Completed |
 |6| Remove Duplicate Transactions and Keep Latest | Data Cleaning | Advanced | Completed |
 |7| Calculate Month-over-Month Sales Growth | Analytics | Advanced | Completed |
+|8| Calculate 3-Day Rolling Average of Daily Sales | Analytics | Advanced | Completed |
 
 ## Mini Project Milestone
 
