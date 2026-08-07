@@ -5,7 +5,7 @@
 |Category|Completed|Target|
 |-|-:|-:|
 |Python Problems|15|15|
-|SQL Problems|9|15|
+|SQL Problems|10|15|
 |Mini Projects|0|1|
 
 ## Python Problems
@@ -41,6 +41,7 @@
 |7| Calculate Month-over-Month Sales Growth | Analytics | Advanced | Completed |
 |8| Calculate 3-Day Rolling Average of Daily Sales | Analytics | Advanced | Completed |
 |9| Find Employees Above Department Average | CTE and Window Functions | Intermediate | Completed |
+|10| Find Second Purchase per Customer | CTE and Window Functions | Intermediate | Completed |
 
 ## Mini Project Milestone
 
