@@ -9,7 +9,7 @@ between the minimum and maximum order date.
 Requirements:
 1. Find the minimum and maximum sales dates.
 2. Generate every calendar date in that range.
-3. Compare generated dates with actual sales dates.
+3. Compare and generated dates with actual sales dates.
 4. Return only missing dates.
 5. Avoid duplicate dates caused by multiple orders
    on the same sales day.
@@ -24,9 +24,7 @@ Concepts:
 - Date completeness checks
 */
 
-
 DROP TABLE IF EXISTS sales_orders;
-
 
 CREATE TABLE sales_orders (
     order_id INTEGER PRIMARY KEY,
