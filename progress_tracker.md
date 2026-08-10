@@ -5,7 +5,7 @@
 |Category|Completed|Target|
 |-|-:|-:|
 |Python Problems|15|15|
-|SQL Problems|12|15|
+|SQL Problems|13|15|
 |Mini Projects|0|1|
 
 ## Python Problems
@@ -44,6 +44,7 @@
 |10| Find Second Purchase per Customer | CTE and Window Functions | Intermediate | Completed |
 |11| Find First and Last Order per Customer | CTE and Window Functions | Advanced | Completed |
 |12| Find 3-Month Consecutive Spending Growth | Analytics | Advanced | Completed |
+|13| Detect Suspicious Order Amount Changes | Analytics | Advanced | Completed |
 
 ## Mini Project Milestone
 
