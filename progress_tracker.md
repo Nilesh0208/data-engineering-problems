@@ -5,7 +5,7 @@
 |Category|Completed|Target|
 |-|-:|-:|
 |Python Problems|15|15|
-|SQL Problems|14|15|
+|SQL Problems|15|15|
 |Mini Projects|0|1|
 
 ## Python Problems
@@ -46,6 +46,7 @@
 |12| Find 3-Month Consecutive Spending Growth | Analytics | Advanced | Completed |
 |13| Detect Suspicious Order Amount Changes | Analytics | Advanced | Completed |
 |14| Detect Customer Status Changes | Analytics | Advanced | Completed |
+|15| Detect Missing Daily Sales Dates | Data Cleaning | Advanced | Completed |
 
 ## Mini Project Milestone
 
