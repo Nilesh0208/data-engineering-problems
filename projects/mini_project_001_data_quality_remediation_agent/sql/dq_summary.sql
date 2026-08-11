@@ -1,4 +1,4 @@
--- Data quality summary for cleaned customer orders
+-- Data quality summary for cleaned customer orders.
 SELECT
     order_status,
     COUNT(*) AS record_count,
