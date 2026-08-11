@@ -1,0 +1,4 @@
+order_id,customer_id,order_amount,order_status,order_date,updated_at
+1002,502,-15.00,PROCESSING,2026-01-10 00:00:00,2026-01-10 11:00:00
+1003,,125.00,COMPLETED,2026-01-11 00:00:00,2026-01-11 12:00:00
+,504,70.00,NEW,2026-01-12 00:00:00,2026-01-12 13:00:00
